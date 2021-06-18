@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Saptak Chakraborty",
+        "email": "saptak9999@gmail.com",
+        "password": "20152014",
+        "comment": "This file is only for test purpose!",
+        "gender": "Male",
+        "hobby": ",Singing,Reading",
+        "file_path": "File\/IMG_20210252_180152_Bokeh - Copy.jpg"
+    },
+    {
+       "name": "Saptak Chakraborty",
+         "email": "saptak9999@gmail.com",
+         "password": "20152014",
+         "comment": "This file is only for test purpose!",
+        "gender": "Male",
+        "hobby": ",Singing",
+      "file_path": "File\/IMG_20210252_180152_Bokeh - Copy.jpg"
+    },
+    {
+        "name": "hello world",
+        "email": "18-37243-1@student.aiub.edu",
+        "password": "124564655858",
+        "comment": "testing",
+        "gender": "Male",
+        "hobby": ",Singing",
+        "file_path": "File\/IMG_20210252_180152_Bokeh - Copy.jpg"
+    },
+    {
+       "name": "hello world",
+        "Email": "18-37243-1@student.aiub.edu",
+        "Password": "123466415260",
+        "Comment": "testing",
+        "Gender": "Male",
+        "Hobby": ",Singing,Reading",
+        "file_path": "File\/IMG_20210252_180152_Bokeh - Copy.jpg"
+    },
+    {
+         "name": "Saptak Chakraborty",
+        "email": "saptak9999@gmail.com",
+        "Password": "20152014",
+        "Comment": "saptak20152014 ",
+        "Gender": "Male",
+        "Hobby": ",Singing",
+        "File_Path": "File\/190599950_19469123612147667_73792464112563472_n.jpg"
+    }
+]
