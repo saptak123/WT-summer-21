@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Saptak Chakraborty",
+        "email": "saptak9999@gmail.com",
+        "password": "20152014",
+        "comment": "This file is only for test purpose",
+        "gender": "Male",
+        "hobby": ",Singing,Reading",
+        "file_path": "FileIMG_20210108_154239.jpg"
+    },
+    {
+        "name": "Saptak Chakraborty",
+        "email": "saptak9999@gmail.com",
+        "password": "sapTAK1985",
+        "comment": "come to me",
+        "gender": "Male",
+     "hobby": ",Writing",
+        "file_path": "FileIMG_20210108_154239.jpg"
+    },
+    {
+        "name": "hello world",
+        "email": "18-37243-1@student.aiub.edu",
+        "password": "56987456",
+        "comment": "test",
+        "gender": "Male",
+        "hobby": ",Singing,Reading",
+        "file_path": "File\/1623856326797467136953237788569.jpg"
+    },
+    {
+        "name": "hello world",
+        "email": "18-37243-1@student.aiub.edu",
+         "password": "56987456",
+         "comment": "test",
+         "gender": "Male",
+          "hobby": ",Singing,Reading",
+         "file_path": "File\/1623856326797467136953237788569.jpg"
+    },
+    {
+        "Name": "Saptak Chakraborty",
+         "email": "18-37243-1@student.aiub.edu",
+        "password": "56987456",
+         "comment": "test",
+        "Gender": "Male",
+        "hobby": ",Singing,Reading",
+         "file_path": "File\/1623856326797467136953237788569.jpg"
+]
